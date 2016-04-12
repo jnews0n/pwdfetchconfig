@@ -1,0 +1,1 @@
+BrowserPasswordDump.exe -f firefox_passwords.txt
